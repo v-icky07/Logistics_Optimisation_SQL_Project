@@ -1,0 +1,53 @@
+Order_ID,Delay_Hours,Delay_Reason
+O0093,238.6,Traffic
+O0133,238.6,Weather
+O0039,232.6,"Technical Issue"
+O0143,232.3,Traffic
+O0197,230.1,Weather
+O0094,230.1,Traffic
+O0103,228,Traffic
+O0241,226.1,Traffic
+O0149,223,Traffic
+O0095,220.8,Weather
+O0181,219.2,Traffic
+O0203,218,Traffic
+O0214,213.1,Traffic
+O0196,212.8,"Technical Issue"
+O0252,211.6,Traffic
+O0245,210.9,"Technical Issue"
+O0223,209.8,Traffic
+O0038,206.4,Traffic
+O0084,205.7,Traffic
+O0142,197.6,Weather
+O0181,197.3,Traffic
+O0153,195.3,Traffic
+O0153,194.6,Weather
+O0076,193.7,Traffic
+O0262,189.2,Weather
+O0197,187.9,"Technical Issue"
+O0191,185.5,Weather
+O0156,183.4,"Technical Issue"
+O0233,180.6,Weather
+O0117,172.8,"Technical Issue"
+O0235,172.5,Traffic
+O0103,171.6,Traffic
+O0173,170.8,"Technical Issue"
+O0256,165.7,Traffic
+O0104,163.2,Weather
+O0271,160,"Technical Issue"
+O0164,158.2,Weather
+O0165,153.7,Weather
+O0195,152.3,Traffic
+O0274,152.1,Traffic
+O0170,151.7,Traffic
+O0072,151.6,"Technical Issue"
+O0212,150.2,"Technical Issue"
+O0022,150,Traffic
+O0098,141.5,"Technical Issue"
+O0107,138.7,Traffic
+O0003,138.5,Traffic
+O0148,138.4,Weather
+O0167,129.2,Weather
+O0161,129,"Technical Issue"
+O0070,122.2,Weather
+O0007,121.8,Traffic
